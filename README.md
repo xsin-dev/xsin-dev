@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Xayrullo</h1>
+<h3 align="center">
+  Frontend Developer • React • TypeScript • Next.js
+</h3>
 
-<!--
-**xsin-dev/xsin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/xsin-dev">
+    <img src="https://komarev.com/ghpvc/?username=xsin-dev&style=flat&color=blue" />
+  </a>
+  <a href="https://www.linkedin.com/in/sin-code/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am a **Junior Frontend Developer** who is actively learning and building projects with modern technologies.
+
+- ⚛️ Frontend pages and components using React
+- 🧩 Using **TypeScript** in projects to write safer code
+- 🚀 Building small to medium frontend projects and deploying them
+- 🎯 Focused on improving **clean code**, UI, and performance step by step
+
+---
+
+## 🛠 Tech Stack
+
+### Core
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
+
+### UI & Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat&logo=tailwindcss)
+![Mantine](https://img.shields.io/badge/Mantine-black?style=flat)
+
+### State & Data
+![React Query](https://img.shields.io/badge/React_Query-black?style=flat)
+![Zustand](https://img.shields.io/badge/Zustand-black?style=flat)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel)
+
+---
+
+## 🚀 What I Build
+- 📝 Simple authentication flows (login, logout, protected pages)
+- 🛒 Small e-commerce UI and dashboard layouts
+- ⚡ Learning to build pages with Next.js
+- 🧱 Reusable UI components for practice projects
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xsin-dev&theme=tokyonight)
