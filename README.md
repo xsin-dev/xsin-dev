@@ -53,6 +53,10 @@ I am a **Junior Frontend Developer** who is actively learning and building proje
 
 ---
 
+Mudarris school uchun:
+https://www.figma.com/design/DDSvphzPw7HjdDv4pv3YPd/Assembled?node-id=0-1&p=f
+https://www.figma.com/design/rWv6zKxyYw0bYJJcRhFdMS/Acarta?node-id=0-1&p=f
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xsin-dev&theme=tokyonight)
