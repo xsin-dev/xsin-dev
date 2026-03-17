@@ -56,6 +56,7 @@ I am a **Junior Frontend Developer** who is actively learning and building proje
 Mudarris school uchun:
 https://www.figma.com/design/DDSvphzPw7HjdDv4pv3YPd/Assembled?node-id=0-1&p=f
 https://www.figma.com/design/rWv6zKxyYw0bYJJcRhFdMS/Acarta?node-id=0-1&p=f
+https://www.figma.com/file/wrJeEZzth1gb00xWxclEDP/Formcarry.?node-id=0%3A1&t=Dq34bA7tbeptYGjr-1
 
 ## 📊 GitHub Stats
 
